@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/preetsinghsebh](https://github.com/preetsinghsebh)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Python, SQL**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python, SQL**.
 
 - 📫 How to reach me **Email: preetsinghsebh42@gmail.com**
 
