@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Python, SQL**.
 
-- 📫 How to reach me **Email: preetsinghsebh42@gmail.com**
+- 📫 How to reach me **Email: preetsinghsebh04@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GSPBqpx1M1v2TscdaAhSTivJPg4YbxnC/view?usp=share_link](https://drive.google.com/file/d/1GSPBqpx1M1v2TscdaAhSTivJPg4YbxnC/view?usp=share_link)
 
