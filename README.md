@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Email: preetsinghsebh04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GSPBqpx1M1v2TscdaAhSTivJPg4YbxnC/view?usp=share_link](https://drive.google.com/file/d/1GSPBqpx1M1v2TscdaAhSTivJPg4YbxnC/view?usp=share_link)
+- 📄 Know about my experiences: https://docs.google.com/document/d/1OszhogkKBAK3a-1Z7rl3L__KymKHty-p/edit?usp=sharing&ouid=106672016286016221070&rtpof=true&sd=true
 
 - ⚡ Fun fact **Fascinated by space science; the universe is just the biggest dataset waiting to be analyzed!**
 
