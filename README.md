@@ -1,13 +1,68 @@
-<h1 align="center">Hi, I’m Preet Singh — building AI systems and data-driven intelligent solutions.h1>
-<h3 align="center">Focused on building intelligent systems that solve real-world problems and drive meaningful decisions..</h3>
+# 🚀 Preet Singh — Building Real-Time AI Systems
 
-- 👨‍💻 All of my projects are available at [https://github.com/preetsinghsebh](https://github.com/preetsinghsebh)
+AI Engineer focused on **LLM systems, agentic architectures, and real-time AI pipelines**.
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Python, SQL**.
+I don’t build toy projects — I build **production-grade AI systems** with memory, orchestration, and human-like interaction.
 
-- 📫 How to reach me **Email: preetsinghsebh04@gmail.com**
+---
 
-- 📄 Know about my experiences: https://docs.google.com/document/d/1OszhogkKBAK3a-1Z7rl3L__KymKHty-p/edit?usp=sharing&ouid=106672016286016221070&rtpof=true&sd=true
+## ⚡ What I Work On
+
+- 🧠 LLM Systems (OpenAI, multi-agent workflows)
+- 🔁 Agentic Architectures & Memory Systems (OpenClaw)
+- ⚡ Real-time AI (WebSockets, streaming pipelines)
+- 🗣️ Voice AI (STT → LLM → TTS pipelines)
+- 🏗️ Backend AI Systems (FastAPI, Node.js, microservices)
+
+---
+
+## 🧩 Featured Projects
+
+### 🔥 BuddyClaw — AI Companion Platform  
+👉 https://buddyclaw.com  
+
+- Built **multi-agent AI system (25+ personas)**
+- Designed **long-term memory system (OpenClaw)**
+- Real-time conversational AI with human-like behavior
+- Microservices architecture for scalable AI agents  
+
+---
+
+### 📊 AI CFO Cortex — Financial AI System  
+👉 https://cortexcfo.com  
+
+- AI-powered financial decision system  
+- Real-time data + tool-calling framework  
+- Portfolio simulation + forecasting models  
+
+---
+
+## 🛠 Tech Stack
+
+**AI & Systems:**  
+LLMs, Agentic Systems, Prompt Engineering, AI Pipelines  
+
+**Backend:**  
+Node.js, FastAPI, WebSockets, Microservices  
+
+**Frontend:**  
+Next.js, React, Tailwind  
+
+**Data:**  
+MongoDB, PostgreSQL, Prisma  
+
+---
+
+## 📫 Reach Me
+
+- Email: preetsinghsebh04@gmail.com  
+- LinkedIn: [your link]
+
+---
+
+## ⚡ Fun Fact
+
+The universe is just the biggest dataset waiting to be analyzed.
 
 - ⚡ Fun fact **Fascinated by space science; the universe is just the biggest dataset waiting to be analyzed!**
 
