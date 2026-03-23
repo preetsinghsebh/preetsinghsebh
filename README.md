@@ -1,5 +1,5 @@
-<h1 align="center">Greetings, fellow data enthusiast! 🙋 I'm Preet Singh, a Data Scientist</h1>
-<h3 align="center">Passionate about leveraging data to solve complex problems and drive intelligent decision-making.</h3>
+<h1 align="center">Hi, I’m Preet Singh — building AI systems and data-driven intelligent solutions.h1>
+<h3 align="center">Focused on building intelligent systems that solve real-world problems and drive meaningful decisions..</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/preetsinghsebh](https://github.com/preetsinghsebh)
 
