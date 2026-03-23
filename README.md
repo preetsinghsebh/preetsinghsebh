@@ -61,10 +61,7 @@ MongoDB, PostgreSQL, Prisma
 ---
 
 ## ⚡ Fun Fact
-
-The universe is just the biggest dataset waiting to be analyzed.
-
-- ⚡ Fun fact **The universe is just the biggest dataset waiting to be analyzed.**
+ **The universe is just the biggest dataset waiting to be analyzed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
