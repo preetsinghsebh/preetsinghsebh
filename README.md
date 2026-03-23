@@ -19,7 +19,7 @@ I don’t build toy projects — I build **production-grade AI systems** with me
 ## 🧩 Featured Projects
 
 ### 🔥 BuddyClaw — AI Companion Platform  
-👉 https://buddyclaw.com  
+👉 https://buddyclaw.vercel.app 
 
 - Built **multi-agent AI system (25+ personas)**
 - Designed **long-term memory system (OpenClaw)**
@@ -29,7 +29,7 @@ I don’t build toy projects — I build **production-grade AI systems** with me
 ---
 
 ### 📊 AI CFO Cortex — Financial AI System  
-👉 https://cortexcfo.com  
+👉 https://cortex-cfo.vercel.app 
 
 - AI-powered financial decision system  
 - Real-time data + tool-calling framework  
@@ -56,7 +56,7 @@ MongoDB, PostgreSQL, Prisma
 ## 📫 Reach Me
 
 - Email: preetsinghsebh04@gmail.com  
-- LinkedIn: [your link]
+- LinkedIn: https://www.linkedin.com/in/preet-singh-860a39319/
 
 ---
 
@@ -64,7 +64,7 @@ MongoDB, PostgreSQL, Prisma
 
 The universe is just the biggest dataset waiting to be analyzed.
 
-- ⚡ Fun fact **Fascinated by space science; the universe is just the biggest dataset waiting to be analyzed!**
+- ⚡ Fun fact **The universe is just the biggest dataset waiting to be analyzed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
