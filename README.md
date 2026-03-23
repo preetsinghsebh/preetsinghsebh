@@ -1,19 +1,20 @@
 # 🚀 Preet Singh — Building Real-Time AI Systems
 
-AI Engineer focused on **LLM systems, agentic architectures, and real-time AI pipelines**.
+AI Engineer focused on LLM systems, agentic architectures, data science, and real-time AI pipelines.
 
-I don’t build toy projects — I build **production-grade AI systems** with memory, orchestration, and human-like interaction.
+I build production-grade AI systems powered by data — combining LLMs, intelligent pipelines, and data-driven decision systems.
 
 ---
 
 ## ⚡ What I Work On
 
 - 🧠 LLM Systems (OpenAI, multi-agent workflows)
-- 🔁 Agentic Architectures & Memory Systems (OpenClaw)
+- ⚙️ Agentic Architectures & Memory Systems (OpenClaw)
+- 📊 Data Science & Data-Driven Systems (analytics, forecasting, decision models)
 - ⚡ Real-time AI (WebSockets, streaming pipelines)
 - 🗣️ Voice AI (STT → LLM → TTS pipelines)
 - 🏗️ Backend AI Systems (FastAPI, Node.js, microservices)
-
+  
 ---
 
 ## 🧩 Featured Projects
@@ -39,16 +40,19 @@ I don’t build toy projects — I build **production-grade AI systems** with me
 
 ## 🛠 Tech Stack
 
-**AI & Systems:**  
-LLMs, Agentic Systems, Prompt Engineering, AI Pipelines  
+**🧠 AI & Systems:**  
+LLMs, Agentic Systems, Prompt Engineering, AI Pipelines, Multi-Agent Architectures  
 
-**Backend:**  
+**📊 Data Science & Intelligence:**  
+Machine Learning, Statistical Modeling, Time-Series Forecasting, Feature Engineering, Data-Driven Systems  
+
+**⚡ Real-Time & Backend:**  
 Node.js, FastAPI, WebSockets, Microservices  
 
-**Frontend:**  
-Next.js, React, Tailwind  
+**🎨 Frontend:**  
+Next.js, React, Tailwind CSS  
 
-**Data:**  
+**💾 Data Infrastructure:**  
 MongoDB, PostgreSQL, Prisma  
 
 ---
